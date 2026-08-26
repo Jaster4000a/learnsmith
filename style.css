@@ -167,6 +167,7 @@ nav.links a:hover { color: var(--teal); }
   margin: 0 0 28px;
 }
 .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; }
+.trust-line { font-size: 13.5px; color: var(--ink-soft); margin: 14px 0 0; }
 .hero-art {
   aspect-ratio: 1 / 1;
   border-radius: 28px;
