@@ -208,9 +208,13 @@ section.alt { background: var(--paper-raised); border-top: 1px solid var(--rule)
   border-radius: 18px;
   padding: 26px;
 }
-.problem-card .glyph {
-  font-size: 28px;
-  margin-bottom: 14px;
+.problem-card .index {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 30px;
+  color: var(--accent);
+  opacity: 0.8;
+  margin-bottom: 10px;
   display: block;
 }
 .problem-card h3 { font-size: 19px; margin-bottom: 8px; }
